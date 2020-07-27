@@ -7,5 +7,4 @@ All lecture related materials are based on:
 ---
 
 ## Note
-캐글 실습에 대해 간략히 알아보고자 수강하였음(완료)   
 강의자료 출처는 notebook 내에 표기되어있습니다.
