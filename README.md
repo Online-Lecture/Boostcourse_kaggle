@@ -1,4 +1,4 @@
-# Learning Data Science With Kaggle Practice
+## Learning Data Science With Kaggle Practice | 🎖
 
 This repository is for **Learning Data Science With Kaggle Practice** lecture related material and projects  
 All lecture related materials are based on: 
@@ -6,5 +6,5 @@ All lecture related materials are based on:
 * [Kaggle](https://www.kaggle.com/)
 ---
 
-## Note
+### Note
 강의자료 출처는 notebook 내에 표기되어있습니다.
